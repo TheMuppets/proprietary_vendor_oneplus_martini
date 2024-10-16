@@ -616,7 +616,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/martini/proprietary/odm/lib64/camera/components/com.oplus.node.videoenhance.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.oplus.node.videoenhance.so \
     vendor/oneplus/martini/proprietary/odm/lib64/hw/fingerprint.goodix_G3.default.so:$(TARGET_COPY_OUT_ODM)/lib64/hw/fingerprint.goodix_G3.default.so \
     vendor/oneplus/martini/proprietary/odm/lib64/hw/vendor.qti.esepowermanager@1.1-impl.so:$(TARGET_COPY_OUT_ODM)/lib64/hw/vendor.qti.esepowermanager@1.1-impl.so \
-    vendor/oneplus/martini/proprietary/odm/lib64/hwconfigurationutiltest:$(TARGET_COPY_OUT_ODM)/lib64/hwconfigurationutiltest \
     vendor/oneplus/martini/proprietary/odm/lib64/libAlgoInterface.so:$(TARGET_COPY_OUT_ODM)/lib64/libAlgoInterface.so \
     vendor/oneplus/martini/proprietary/odm/lib64/libAlgoProcess.so:$(TARGET_COPY_OUT_ODM)/lib64/libAlgoProcess.so \
     vendor/oneplus/martini/proprietary/odm/lib64/libAncSegmentSdk.so:$(TARGET_COPY_OUT_ODM)/lib64/libAncSegmentSdk.so \
