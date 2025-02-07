@@ -657,9 +657,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/martini/proprietary/vendor/firmware/vpu20_4v_unsigned.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/vpu20_4v_unsigned.mbn
 
 PRODUCT_PACKAGES += \
-    audio.primary.lahaina \
-    libextcamera_client \
-    vendor.oplus.hardware.extcamera@1.0 \
     com.qti.camx.chiiqutils \
     com.qti.eisv2 \
     com.qti.eisv3 \
@@ -795,10 +792,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.camera.postproc@1.0-service-impl \
     libDeVIS \
     lib_lvacfs \
-    liba2dpoffload_odm \
-    libaudioEngineerTest \
     liblvacfs_wrapper \
-    libssrec_odm \
     anc.hal \
     android.hardware.secure_element@1.0-impl \
     com.qti.sensor.imx471.20820 \
