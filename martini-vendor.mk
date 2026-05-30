@@ -785,10 +785,7 @@ PRODUCT_PACKAGES += \
     libsynx \
     libtfestriping \
     libthreadutils \
-    vendor.oplus.hardware.cameraextension-V1-ndk_platform \
     vendor.oplus.hardware.cammidasservice@1.0 \
-    vendor.oplus.hardware.osense.client-V1-ndk_platform \
-    vendor.oplus.hardware.sendextcamcmd-V1-ndk_platform \
     vendor.qti.hardware.camera.postproc@1.0-service-impl \
     libDeVIS \
     lib_lvacfs \
@@ -910,9 +907,6 @@ PRODUCT_PACKAGES += \
     libtriplecam_video_optical_zoom \
     libwatermark_photo \
     vendor.oplus.hardware.cameraextension-V1-service-impl \
-    vendor.oplus.hardware.cammidasservice-V1-ndk_platform \
-    vendor.oplus.hardware.commondcs-V1-ndk_platform \
-    vendor.oplus.hardware.olc2-V1-ndk_platform \
     vendor.oplus.hardware.orms@1.0 \
     vendor.oplus.hardware.osense.client@1.0 \
     vendor.oplus.hardware.sendextcamcmd-V1-service-impl \
